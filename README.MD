@@ -17,6 +17,10 @@ DEVELOPMENT PROCESS
 
 4. Added Bootstrap CDN for some panel styling, jQuery for DOM manipulation, custom styling in 'styles.css', and JavaScript file under 'news_panel.js'.
 
+5. Wrapped main panel around div to adjust full panel height and width.
 
+6. Separated panel header and each individual section into divs.
+
+7. Added the required styling and JS functions.
 
 
