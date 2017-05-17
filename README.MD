@@ -1,10 +1,10 @@
 Development server is setup with Node.js/Express. 
 
-1. First run 'npm install' to install dependencies'
+1. First run 'npm install' to install dependencies
 
-2. Server can be run using the command "node app.js in the command line"
+2. Server can be run using the command "node app.js" on the command line
 
-
+3. To view panel open browser window to localhost:3000
 
 =======================================================
 DEVELOPMENT PROCESS
@@ -21,6 +21,6 @@ DEVELOPMENT PROCESS
 
 6. Separated panel header and each individual section into divs.
 
-7. Added the required styling and JS functions.
+7. Added the specified styling, JS functions and images to best of my ability.
 
 
